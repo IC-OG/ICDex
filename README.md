@@ -92,7 +92,7 @@ For Example, the trading pair "ICL/ICP" shows how many ICP (the quote token) are
 
 ### Order Price
 
-Order Price means how many token1 (the quote token) are needed to purchase an unit size token0 (the base token), or how many token1 (the quote token) are obtained by selling an unit size token0 (the base token). 
+Order Price means how many token1 (the quote token) are needed to purchase a unit size token0 (the base token), or how many token1 (the quote token) are obtained by selling a unit size token0 (the base token). 
 
 ### Maker & Taker
 
